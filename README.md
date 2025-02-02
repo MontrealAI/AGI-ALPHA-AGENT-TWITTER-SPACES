@@ -133,6 +133,29 @@ For development with hot-reloading:
    npm run dev
    ```
 
+**Running in Production Mode**
+
+1. **Start the Server:**
+
+   ```bash
+   npm start
+   ```
+
+2. **Using PM2 (Recommended for Production):**
+
+Install PM2 globally:
+
+   ```bash
+   sudo npm install -g pm2
+   ```
+
+Start the server with PM2:
+
+   ```bash
+   pm2 start dist/index.js --name agi-alpha-agent-spaces
+   pm2 save
+   ```
+
 ---
 
 ## Deployment & Production Considerations
