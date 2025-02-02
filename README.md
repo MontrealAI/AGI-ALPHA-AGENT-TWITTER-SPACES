@@ -84,3 +84,11 @@ The solution is built on three core pillars:
 │           └── blockchain.ts
 └── contracts
     └── (Optional: Token contract files – not needed if $AGIALPHA is already deployed)
+
+## Installation
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/MontrealAI/AGI-ALPHA-AGENT-TWITTER-SPACES.git
+   cd AGI-ALPHA-AGENT-TWITTER-SPACES/backend
