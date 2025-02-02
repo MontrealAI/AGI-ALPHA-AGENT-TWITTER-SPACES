@@ -83,8 +83,9 @@ The solution is built on three core pillars:
 │           ├── twitterAPI.ts
 │           └── blockchain.ts
 └── contracts
-    └── (Optional: Token contract files – not needed if $AGIALPHA is already deployed)
-```
+    └── (Optional: Token contract files – not needed if $AGIALPHA is already deployed)```
+
+---
 
 ## Installation
 
@@ -92,16 +93,31 @@ The solution is built on three core pillars:
 
    ```bash
    git clone https://github.com/MontrealAI/AGI-ALPHA-AGENT-TWITTER-SPACES.git
-   cd AGI-ALPHA-AGENT-TWITTER-SPACES/backend
+   cd AGI-ALPHA-AGENT-TWITTER-SPACES/backend```
 
-## 2. Install Dependencies
+2. **Install Dependencies**
 
 Navigate to the backend directory and install all required packages:
 
-```bash
-cd /path/to/AGI-ALPHA-AGENT-TWITTER-SPACES/backend
-npm install
-```
+   ```bash
+   cd /path/to/AGI-ALPHA-AGENT-TWITTER-SPACES/backend
+   npm install```
+
+3. **Configure Environment Variables:**
+
+   - Copy the `.env.example` file to `.env`:
+
+   ```bash
+   cp .env.example .env```
+
+   - Edit the `.env` file and provide your actual Twitter API credentials, Solana RPC URL, and any other required values.
+
+4. **Build the Project::**
+
+   ```bash
+   npm run build```
+
+---
 
 ## Deployment & Production Considerations
 
