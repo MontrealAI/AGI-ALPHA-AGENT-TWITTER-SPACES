@@ -84,6 +84,7 @@ The solution is built on three core pillars:
 │           └── blockchain.ts
 └── contracts
     └── (Optional: Token contract files – not needed if $AGIALPHA is already deployed)
+```
 
 ## Installation
 
