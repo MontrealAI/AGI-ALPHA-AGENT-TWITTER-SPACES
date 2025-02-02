@@ -223,7 +223,7 @@ Happy coding, and welcome to the pinnacle of digital evolution!
 
 **AGI ALPHA AGENT TWITTER SPACES** – Seize the Alpha. Transform the world.
 
-**Disclaimer: This blueprint references #PriorArt (2017) to block trivial IP claims, but it is not a guarantee of compliance or legal immunity. Always consult professionals for your jurisdiction.**
+**Disclaimer: This blueprint references "Multi-Agent AI DAO" #PriorArt (2017) to block trivial IP claims, but it is not a guarantee of compliance or legal immunity. Always consult professionals for your jurisdiction.**
 
 ## Note: This is a Pre-Alpha version and is currently under active development. DO NOT USE!
 
