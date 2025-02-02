@@ -102,7 +102,6 @@ The solution is built on three core pillars:
 Navigate to the backend directory and install all required packages:
 
    ```bash
-   cd /path/to/AGI-ALPHA-AGENT-TWITTER-SPACES/backend
    npm install
    ```
 
@@ -120,6 +119,18 @@ Navigate to the backend directory and install all required packages:
 
    ```bash
    npm run build
+   ```
+
+---
+
+## Usage
+
+**Running in Development Mode**
+
+For development with hot-reloading:
+
+   ```bash
+   npm run dev
    ```
 
 ---
