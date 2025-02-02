@@ -115,7 +115,7 @@ Navigate to the backend directory and install all required packages:
 
    - Edit the `.env` file and provide your actual Twitter API credentials, Solana RPC URL, and any other required values.
 
-4. **Build the Project::**
+4. **Build the Project:**
 
    ```bash
    npm run build
