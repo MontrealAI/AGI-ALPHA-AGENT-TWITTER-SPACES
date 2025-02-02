@@ -93,3 +93,67 @@ The solution is built on three core pillars:
    ```bash
    git clone https://github.com/MontrealAI/AGI-ALPHA-AGENT-TWITTER-SPACES.git
    cd AGI-ALPHA-AGENT-TWITTER-SPACES/backend
+
+## 2. Install Dependencies
+
+Navigate to the backend directory and install all required packages:
+
+```bash
+cd /path/to/AGI-ALPHA-AGENT-TWITTER-SPACES/backend
+npm install
+```
+
+## Deployment & Production Considerations
+
+**Environment Setup:**  
+- Ensure Node.js (LTS version) and npm are installed on your Ubuntu machine.
+
+**Process Management:**  
+- Use PM2 or an equivalent process manager for high availability and automatic restarts.
+
+**Security:**  
+- Serve your application over HTTPS using a reverse proxy (e.g., Nginx) for SSL termination.  
+- Implement rate limiting and input validation on all endpoints.
+
+**Persistent Storage:**  
+- For production, replace the in-memory session store with a robust database solution.
+
+**Real API Integration:**  
+- Replace the simulated Twitter events in `twitterAPI.ts` with actual API calls (using libraries like `twitter-api-v2`).  
+- Integrate a proper SPL Token library for full blockchain functionality.
+
+**Monitoring:**  
+- Integrate performance and error monitoring tools such as Prometheus, Grafana, or PM2’s built-in monitoring.
+
+---
+
+## Security & Monitoring
+
+**HTTPS & Reverse Proxy:**  
+- Use Nginx (or a similar reverse proxy) to manage SSL termination and protect your endpoints.
+
+**Logging & Monitoring:**  
+- Utilize PM2, Prometheus, and Grafana to monitor server performance and maintain robust logging for debugging and auditing.
+
+---
+
+## License & Terms
+
+**$AGIALPHA tokens** are strictly utility tokens—**no equity or profit-sharing rights**. By using this system, you agree to the terms and conditions outlined in our documentation.  
+For detailed legal terms, refer to the [Terms & Conditions](https://www.montreal.ai/).
+
+The code is protected by our **Multi-Agent AI DAO Prior Art** (publicly disclosed and time‑stamped since August 8, 2017). Any attempts to patent or monopolize these core innovations will be rigorously contested.
+
+---
+
+## Acknowledgements
+
+- **Montreal.AI** – For pioneering the Multi-Agent AI DAO Prior Art.
+- **Twitter API & Solana Web3.js Libraries** – For the robust frameworks that power our integrations.
+- **Our World-Class Engineering Team** – For pushing the boundaries of innovation and redefining digital discourse.
+
+---
+
+Happy coding, and welcome to the pinnacle of digital evolution!
+
+**AGI ALPHA AGENT TWITTER SPACES** – Seize the Alpha. Transform the world.
