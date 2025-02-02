@@ -83,7 +83,8 @@ The solution is built on three core pillars:
 │           ├── twitterAPI.ts
 │           └── blockchain.ts
 └── contracts
-    └── (Optional: Token contract files – not needed if $AGIALPHA is already deployed)```
+    └── (Optional: Token contract files – not needed if $AGIALPHA is already deployed)
+```
 
 ---
 
