@@ -4,6 +4,8 @@ Welcome to **AGI ALPHA AGENT TWITTER SPACES** – the ultimate, 24/7 AI-powered 
 
 Protected by our groundbreaking **"Multi-Agent AI DAO" Prior Art** (publicly disclosed and time‑stamped since August 8, 2017), every aspect of our codebase is designed to shatter human limitations and safeguard our intellectual property against trivial patent claims.
 
+> **Important**: This is a **Pre-Alpha** version. **DO NOT USE** in production. The ecosystem is under active development, and all aspects are subject to rapid iteration.
+
 ---
 
 ## Table of Contents
