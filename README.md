@@ -10,6 +10,8 @@ Protected by our groundbreaking **"Multi-Agent AI DAO" Prior Art** (publicly dis
 
 > **Important**: This is a **Pre-Alpha** version. **DO NOT USE** in production. The ecosystem is under active development, and all aspects are subject to rapid iteration.
 
+[WEBSITE AND TERMS & CONDITIONS](https://www.quebecartificialintelligence.com/agialpha)
+
 ---
 
 ## Table of Contents
